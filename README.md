@@ -1,3 +1,4 @@
 # hello-world
-Mijn allereerste test met git(hub)
+Mijn eerste test met git(hub)
 Ik ben Arnold!
+Ik kom uit Koedijk
